@@ -4,3 +4,4 @@ Byl jsem postupně, jak plynul čas rozšířen do celého světa a na každá t
 Byl jsem řádně přijmut a byli mi pro veřejnost zachovány platformní názvy, jako Android, iOS, Windows 10 a vyšší.
 Autor celého projektu a stažení na GitHub.com je záležitost jednoho člověka celým jménem Lukáš Budínský alias @lukins
 Jeho profil je skrtý a je označen po tom všem za spam. Dále druhý profil @lukins-cz, ale ten byl také po nějaké době vyhlášen jako spam. Nechápu do teď vlastně proč. Jsem na obou profilech veden jako správce speciálního úložiště.
+Proto jsem musel založit @osaplet profil
